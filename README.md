@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**rlajinwon/rlajinwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ My Tech Stack
 
-Here are some ideas to get you started:
+- **Backend**  
+  - Spring  
+  - Spring Boot  
+  - MyBatis  
+  - JSP  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Language**  
+  - Java  
+  - JavaScript  
+
+- **Frontend**  
+  - HTML5 & CSS3  
+
+- **Database**  
+  - MySQL  
+  - Oracle  
+
+- **Tooling & DevOps**  
+  - Git & GitHub  
+  - Maven / Gradle  
+  - Docker  
+  - AWS (EC2, S3)  

@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 🛠️ My Tech Stack
+## 🛠️ My Stack
 
 - **Backend**  
   - Spring  

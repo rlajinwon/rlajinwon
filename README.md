@@ -46,8 +46,8 @@
 📫 연락처
 
 - **Email**: [wlsdnjs652@naver.com]   
-- **Blog**: [https://jinwon-log.tistory.com](https://maldays.tistory.com) 
-- **GitHub**: ([https://github.com/your-github-id](https://github.com/rlajinwon))
+- **Blog**: (https://maldays.tistory.com) 
+- **GitHub**: (https://github.com/rlajinwon)
 
 ---
 
